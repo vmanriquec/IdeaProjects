@@ -37,6 +37,7 @@ public class Form implements ActionListener{//implementando el listener de event
         jt3 = new JTextField(2);
 
 
+
         //Instanciando boton con texto
         bt1 = new JButton("Calcular");
 
